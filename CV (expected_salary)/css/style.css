@@ -39,7 +39,9 @@ img {
     margin: 0;
 }
 
-
+.part-left {
+    background: #38373d;
+}
 
 .part-right {
     padding: 9px 0 0 10px;
