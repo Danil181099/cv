@@ -28,16 +28,6 @@ img {
     background: #3a393f;
 }
 
-.salary {
-    align-items: center;
-    font-size: 25px;
-    color: deepskyblue;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 45px;
-}
-
 .name {
     align-items: center;
     height: 160px;
@@ -115,8 +105,13 @@ ul {
     font-size: 20px;
 }
 
+.date-item-new {
+    margin-top: 190px;
+}
+
 .experience-text-2 {
     padding-top: 30px;
+    line-height: 1.5;
 }
 
 .tittle-2::before {
