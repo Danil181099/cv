@@ -63,8 +63,19 @@ ul {
 }
 
 .date {
-    width: 275px;
+    width: 200px;
     border-right: 1px solid deepskyblue;
+}
+
+.date_one {
+    padding: 55px 20px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.date_two {
+    padding: 55px 20px;
+    font-size: 20px;
 }
 
 .date-item-2 {
@@ -94,6 +105,14 @@ ul {
 .tittle-about {
     width: 550px;
     border-bottom: 1px solid darkcyan;
+}
+
+.mrg-btm {
+    margin-bottom: -30px;
+}
+
+.margin_cont {
+    margin-bottom: 40px;
 }
 
 .experience-text,
